@@ -26,20 +26,7 @@ strong{
 }
 
 a{
-
-  color: var (--cor-texto);
-  
-  font-size: 19px;
-
-  text-decoration: none;
-
-  background-color: var (--color-destaque)
-
-  padding: 10px 40px; 
-
-  margin: 15px;
-
-  border-radius: 10px;
+ 
 }
 
 .foto{
